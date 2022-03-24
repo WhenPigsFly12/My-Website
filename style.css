@@ -1,0 +1,27 @@
+#apps {
+    background-color:antiquewhite;
+}
+
+
+#chatbots {
+    background-color:lightblue;
+}
+
+body {
+    text-align:center;
+}
+
+#myCarousel {
+    background-color:aquamarine;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-top: 15px
+    color:white;
+    font-size: 20px;
+}
